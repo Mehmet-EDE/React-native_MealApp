@@ -17,5 +17,15 @@ export const styles = StyleSheet.create({
  description: {
   fontSize: 17,
   color: 'white'
+ },
+ Btn:{
+  height:35,
+  width:'90%',
+  alignItems:'center',
+  justifyContent:'center',
+  margin:10,
+  padding:5,
+  backgroundColor:'#4D4C7D',
+  borderRadius:15
  }
 })
